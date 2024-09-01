@@ -2,6 +2,7 @@
 
 <!--
 **AnasSM0/AnasSM0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![bg](https://github.com/user-attachments/assets/ba4975d1-e36a-416b-8031-089c6727d1df)
 
 Here are some ideas to get you started:
 

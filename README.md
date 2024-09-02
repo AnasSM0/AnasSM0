@@ -1,6 +1,4 @@
 
-![github bg](https://github.com/user-attachments/assets/bd4413b1-6c39-495a-b9b4-1c918431109d)
-
 # 💫 Hi 👋🏻, I'm Anas
 ### Brewing innovative web experiences while mastering the art of code☕👩‍💻
 👨🏻‍💻 I'm currently working on JavaScript<br> 👩🏼‍🤝‍🧑🏻 Looking to collaborate on Web Development<br>💁🏻‍♂️ Looking for help with Backend Development<br>📖 Currently learning Web3 and react.js<br>👀 Curious to learn about Blockchain<br>

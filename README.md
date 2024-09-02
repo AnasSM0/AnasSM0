@@ -1,6 +1,5 @@
-![github bg](https://github.com/user-attachments/assets/53050985-5155-4ac1-9a41-cf3a5f11![github bg](https://github.com/user-attachments/assets/40954a9e-ac24-411a-8b18-c747da056cfd)
-8f72)
 
+![github bg](https://github.com/user-attachments/assets/bd4413b1-6c39-495a-b9b4-1c918431109d)
 
 # 💫 Hi 👋🏻, I'm Anas
 ### Brewing innovative web experiences while mastering the art of code☕👩‍💻

@@ -1,7 +1,11 @@
 
 # Hi 👋🏻, I'm Anas
 ### Caffeine-fueled CS student, seamlessly blending creativity with code ☕💻
-👨🏻‍💻 I'm currently working on JavaScript<br> 👩🏼‍🤝‍🧑🏻 Looking to collaborate on Web Development<br>💁🏻‍♂️ Looking for help with Backend Development<br>📖 Currently learning Web3 and react.js<br>👀 Curious to learn about Blockchain<br>
+👨🏻‍💻 Currently working with Node.js & Python<br>
+🧠 Learning Docker, Linux, and React.js<br>
+💡 Exploring DevOps & Cloud fundamentals<br>
+🤝 Open to collaborate on Backend & Web Dev projects<br>
+🔍 Curious about Automation and System Design<br>
 
 
 ## 🌐 Socials:
